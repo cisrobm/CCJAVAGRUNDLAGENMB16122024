@@ -6,5 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CCJAVAGRUNDLAGENPT16122024"/>
+	<classpathentry kind="lib" path="/CCJAVAGRUNDLAGENPT16122024/src/utils"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
